@@ -1,2 +1,1 @@
-$output = shell_exec('ls');
-echo "$output";
+echo "hello"
